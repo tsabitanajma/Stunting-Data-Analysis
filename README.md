@@ -4,14 +4,14 @@
 Dataset Stunting ini mencakup atribut demografis dan terkait kesehatan yang bertujuan untuk memprediksi secara diagnostik apakah seorang pasien menderita stunting berdasarkan pengukuran diagnostik. Dataset mencakup informasi tentang Gender, Age, Birth Weight, Birth Length, Body Weight, Body Length, Breastfeeding, dan Stunting. Dataset ini memberikan data faktor-faktor yang berkontribusi pada Stunting serta memfasilitasi pengembangan model prediktif untuk penilaian risiko dan strategi pencegahan.
 
 Keterangan Variabel
-Stunting: Kondisi gagal tumbuh pada anak balita akibat kekurangan gizi kronis terutama dalam 1000 Hari Pertama Kehidupan (HPK).
-Gender: Jenis Kelamin
-Age: Usia
-Birth Weight: Berat badan anak saat lahir.
-Birth Length: Panjang badan anak saat lahir
-Body Weight: Berat badan anak saat diukur
-Body Length: Panjang badan anak saat diukur
-Breastfeeding: ASI eksklusif yang diberikan kepada anak 6 bulan pertama
+* Stunting: Kondisi gagal tumbuh pada anak balita akibat kekurangan gizi kronis terutama dalam 1000 Hari Pertama Kehidupan (HPK).
+* Gender: Jenis Kelamin
+* Age: Usia
+* Birth Weight: Berat badan anak saat lahir
+* Birth Length: Panjang badan anak saat lahir
+* Body Weight: Berat badan anak saat diukur
+* Body Length: Panjang badan anak saat diukur
+* Breastfeeding: ASI eksklusif yang diberikan kepada anak 6 bulan pertama
 
 
 ## Kesimpulan
